@@ -1,0 +1,7 @@
+  2026-04-19 10:00 INFO user login
+  2026-04-19 10:01 ERROR db connection timeout
+  2026-04-19 10:02 INFO query executed
+  2026-04-19 10:03 ERROR redis unreachable
+  2026-04-19 10:04 WARN slow query
+  2026-04-19 10:05 ERROR auth failed
+  2026-04-19 10:06 INFO user logout
