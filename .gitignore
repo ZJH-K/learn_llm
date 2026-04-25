@@ -42,3 +42,9 @@ dist/
 
 # Logs
 *.log
+
+# Claude Code 本地配置(权限规则等,不公开)
+.claude/
+
+# 参考资料(他人内容 / 临时下载,不进版本库)
+learning-roadmap-development.md
