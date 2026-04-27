@@ -48,3 +48,7 @@ dist/
 
 # 参考资料(他人内容 / 临时下载,不进版本库)
 learning-roadmap-development.md
+
+# 作业产物(下载文件 / 缓存等)
+**/downloads/
+*.bin
