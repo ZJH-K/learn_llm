@@ -9,3 +9,8 @@ dependencies = [
     "loguru>=0.7.3",
     "pydantic>=2.13.3",
 ]
+
+[tool.uv.workspace]
+members = [
+    "day13_engineering",
+]
