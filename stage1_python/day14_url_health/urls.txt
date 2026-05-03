@@ -1,0 +1,5 @@
+https://www.example.com
+https://www.github.com
+https://www.google.com
+https://this-domain-does-not-exist-xyz.com
+https://httpbin.org/status/500

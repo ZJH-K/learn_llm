@@ -13,4 +13,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "day13_engineering",
+    "day14_url_health",
 ]
