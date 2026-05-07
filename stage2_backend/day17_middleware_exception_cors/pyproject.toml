@@ -1,0 +1,11 @@
+[project]
+name = "day17-middleware-exception-cors"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.136.1",
+    "loguru>=0.7.3",
+    "uvicorn[standard]>=0.46.0",
+]
